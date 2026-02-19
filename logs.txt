@@ -1,0 +1,7 @@
+INFO User login success
+ERROR Database connection timeout
+ERROR Database connection timeout
+WARNING Memory usage high
+ERROR Database connection timeout
+INFO Health check passed
+ERROR Service unavailable
